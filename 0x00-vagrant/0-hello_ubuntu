@@ -1,0 +1,2 @@
+#!/bin/bash
+echo 'prints name, version and other detail'
